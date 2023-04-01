@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><b>Catalog of My Things</b></h3>
+  <h1><b>Catalog of My Things</b></h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
